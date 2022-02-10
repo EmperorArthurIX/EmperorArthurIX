@@ -46,7 +46,7 @@ Recently, I've been:
 ### I do stuff using these
 
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" height=50></a>
-<a href="https://streamlit.io/"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height=50></a>
+<a href="https://streamlit.io/"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height=50></a>
 <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height=50></a>
 <a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" height=50></a>
 <a href="https://numpy.org/"><img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" height=50></a>
