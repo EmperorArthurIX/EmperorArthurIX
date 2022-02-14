@@ -52,8 +52,7 @@ Recently, I've been:
 <a href="https://numpy.org/"><img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" height=50></a>
 <a href="https://www.heroku.com/"><img src="http://softwareengineeringdaily.com/wp-content/uploads/2019/12/Heroku.png" height=50></a>
 <a href="https://powerbi.microsoft.com/en-us/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height=50></a>
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" height=50></a>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" height=50></a>
 
 ### Statistics
 
