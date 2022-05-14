@@ -41,6 +41,7 @@ Recently, I've been:
 <a href="https://twitter.com/PanditaIshaan"><img src="https://1000logos.net/wp-content/uploads/2021/04/Twitter-logo.png" height=50></a>
 <a href="https://www.linkedin.com/in/ishaan-sunita-pandita/"><img src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" height=50></a>
 <a href="https://medium.com/@emperorarthurix"><img src="https://miro.medium.com/max/8978/1*s986xIGqhfsN8U--09_AdA.png" height=50></a>
+<a href="https://emperorarthurix.github.io/The-ISP/"><img src="https://cdn-icons-png.flaticon.com/512/281/281190.png" height=50></a>
 
 
 ### I do stuff using these
@@ -53,6 +54,9 @@ Recently, I've been:
 <a href="https://www.heroku.com/"><img src="http://softwareengineeringdaily.com/wp-content/uploads/2019/12/Heroku.png" height=50></a>
 <a href="https://powerbi.microsoft.com/en-us/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height=50></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" height=50></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height=50></a>
+
+
 
 ### Statistics
 
